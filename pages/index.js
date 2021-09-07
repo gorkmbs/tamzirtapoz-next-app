@@ -13,6 +13,7 @@ export default function Home() {
 
       <div className="text-center text-red-600">
         <h1 className="text-xl">Hello World from tamzirtapoz next app</h1>
+        <p className="text-md text-black font-mono">with tailwind.css</p>
       </div>
     </div>
   );
